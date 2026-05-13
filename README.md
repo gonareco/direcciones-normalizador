@@ -18,4 +18,3 @@ Script en Python con interfaz Tkinter para normalizar direcciones usando expresi
 1. Ejecutar `python procesador_direcciones.py`
 2. Seleccionar archivo CSV con la columna "direccion" a analizar.
 3. Elegir destino del archivo procesado.
-4. Click en "Generar Variables de Direcciones.
